@@ -1,0 +1,19 @@
+.col{
+    background-color: rgb(199, 117, 117);
+}
+
+.col-sm{
+    background-color: aqua;
+}
+
+.col-md{
+    background-color: yellowgreen;
+}
+
+.col-lg{
+    background-color: tomato;
+}
+
+.col-xl{
+    background-color: crimson;
+}
